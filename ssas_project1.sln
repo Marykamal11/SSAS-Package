@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "ssas_project1", "ssas_project1\ssas_project1.dwproj", "{14A73E68-C865-42FE-8B37-60C4DF4FE9BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14A73E68-C865-42FE-8B37-60C4DF4FE9BA}.Development|Default.ActiveCfg = Development
+		{14A73E68-C865-42FE-8B37-60C4DF4FE9BA}.Development|Default.Build.0 = Development
+		{14A73E68-C865-42FE-8B37-60C4DF4FE9BA}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8120F041-6114-45BE-B434-71ECCBCBE7C2}
+	EndGlobalSection
+EndGlobal
